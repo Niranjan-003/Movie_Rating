@@ -21,6 +21,6 @@ A machine learning model to predict IMDb movie ratings based on metadata like ye
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/movie-rating-predictor.git
-   cd movie-rating-predictor
+   git clone https://github.com/yourusername/https://github.com/Niranjan-003/Movie_Rating.git.git
+   cd Movie_Rating
 
